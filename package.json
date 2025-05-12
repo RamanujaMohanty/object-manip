@@ -1,0 +1,21 @@
+{
+  "name": "object-manip",
+  "version": "1.0.0",
+  "description": "CSC317 - HWK 03 - Object Manipulation in JavaScript --- This is a test!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamanujaMohanty/object-manip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RamanujaMohanty/object-manip/issues"
+  },
+  "homepage": "https://github.com/RamanujaMohanty/object-manip#readme"
+}
